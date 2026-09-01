@@ -3593,7 +3593,7 @@ if __name__ == "__main__":
     print("☠️☠️☠️ CPM TOOL BOT - CPM1 + CPM2 ULTIMATE ☠️☠️☠️")
     print("="*60)
     print("✅ Bot is running!")
-    print("👑 Admins: 6531314640, 8650959684")
+    print(f"👑 Owner: {OWNER_ID}")
     print("🔑 Keys: CPM TOOL")
     print("⏰ Time Keys: Supported (Admin can create keys with custom hours)")
     print("🎁 Free Trial: Supported (10 minutes)")
