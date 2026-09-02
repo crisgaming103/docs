@@ -1,7 +1,0 @@
-pyTelegramBotAPI
-requests
-Flask
-aiohttp
-pycryptodome
-brotli
-urllib3
