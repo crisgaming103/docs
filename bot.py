@@ -45,7 +45,7 @@ except ImportError:
 #  CONFIGURATION
 # ================================================================
 # ⚠️ PALITAN MO ITO NG BAGONG TOKEN MULA SA @BotFather
-BOT_TOKEN = "8838736873:AAF-0esSDwy-PRsmRmnyeKvo3JUlpWYEZwI"0
+BOT_TOKEN = "8838736873:AAF-0esSDwy-PRsmRmnyeKvo3JUlpWYEZwI"
  # HARDCODED (PALITAN!)
 
 # ================================================================
