@@ -1,0 +1,4 @@
+aiohttp
+pycryptodome
+brotli
+python-telegram-bot>=21.0
